@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+*.a
+
+build/
+CMakeCache.txt
